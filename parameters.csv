@@ -1,0 +1,7 @@
+figures,scripts,main_settings
+"1-2","utah_summer_primitive_experiment.py; utah_summer_primitive_experiment_lower_power.py","N=23; K=20; horizon=120 h; mean replenishment time=0.78 h; penalty=3.01; summer TOU prices; charging power=41 or 7 kW"
+"3-4","utah_winter_primitive_experiment.py; utah_winter_primitive_experiment_lower_power.py","N=23; K=20; horizon=120 h; mean replenishment time=0.78 h; penalty=3.01; winter TOU prices; charging power=41 or 7 kW"
+"5","robust_preemptive.py","N=23; K=20; mean replenishment time=0.78 h; Erlang-3 and two-branch hyperexponential examples"
+"6(a)","ph_scv_objective.py","N=23; K=20; horizon=120 h; mean replenishment time=0.78 h; penalty=3.01; baseline arrivals; SCV grid from Erlang, exponential, and hyperexponential distributions"
+"6(b)","ph_scv_objective_counter.py","same as Figure 6(a), with arrival rates doubled and penalty=6"
+"7-8","ph_general_mean_compare.py; ex_general_scv_compare.py","N=4; K=3; mean replenishment time=0.78 h; common grid=0.195 h; target SCV={2,4,6,8,10}; true bimodal compared with component-matched Erlang and mean-matched exponential approximations"

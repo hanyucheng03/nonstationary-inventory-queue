@@ -1,0 +1,3 @@
+distribution,mean_service_hours,phases,ctmdp_states,projected_q_positive_holes,initial_value,forward_expected_cost,elapsed_seconds
+Erlang-3,0.780000,3,2600,0,3135.8822950776,3135.8822950775,5.120323
+Hyperexponential,0.780000,2,300,0,3101.0966282563,3101.0966282562,1.476749
